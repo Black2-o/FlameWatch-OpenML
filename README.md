@@ -161,7 +161,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 🔗 Related Links
 
 - [Bolt.New Hackathon](https://bolt.new)  
-- [NASA Space Apps Challenge - Ignite Intelligence Team](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/ignite-intelligence/?tab=project)
 
 ---
 
